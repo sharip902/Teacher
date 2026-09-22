@@ -1,0 +1,7 @@
+{
+  "name": "Homework Teacher AI",
+  "description": "Friendly AI Homework Teacher for kids with voice learning, parental controls, and bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
